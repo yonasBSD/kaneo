@@ -14,7 +14,10 @@
 			"cache",
 			"*.css",
 			"package.json",
-			".turbo"
+			".turbo",
+			".source",
+			".next",
+			"out"
 		]
 	},
 	"formatter": {
